@@ -1,1 +1,1 @@
-# JSControlStructuresAndFunctions
+My 37th assignment! In this one we learn about if statements for program control and functions, allowing for simple program logic. By the end of this assignment, I had made a program to display and add items to cart, and a program to modify and display bank balance.
