@@ -1,4 +1,3 @@
-
 // Assignment 2
 // Task 1
 function deposit(x) {
